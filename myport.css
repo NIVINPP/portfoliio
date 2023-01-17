@@ -1,0 +1,39 @@
+h1{
+
+    font-family: Satoshi, sans-serif;
+    font-size: 138px;font-weight: 500;
+    font: normal;
+
+}
+
+p{
+
+    font-family: Satoshi, sans-serif;
+    font-size: 50px;font-weight: 500;
+    font: normal;color: #fe561a;
+    
+}
+ul{
+
+    font-family: Satoshi, sans-serif;
+    font-size: 40px;font-weight: 500;
+    font: normal;color: #fe561a;
+}
+#insta{
+    transition: 1s;
+}
+
+#insta:hover{
+    transform: scale('1.3')
+
+
+
+}
+.img2{
+
+    transition: 1s;
+}
+.img2:hover{
+
+    transform: scale('1.2');
+}

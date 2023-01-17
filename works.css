@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('./images/bg.jpg');
+    background-size: cover;
+
+
+
+}
+img:hover{
+
+    color: #2a20f1;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3 ;box-shadow: 0 0 80px #2196f3 ;box-shadow: 0 0 120px #2196f3 ;
+    transition-delay: 0.1s;
+    
+}
+h1:hover{
+    transform: scale(1.105);
+    font-family: 'kanit', sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: bold;
+    background-image: url('https://cdn.pixabay.com/photo/2020/10/18/18/42/bulb-5665770_960_720.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: ;
+    transition: 0.5s;
+
+}
+h1{
+    
+    text-align: center; margin-top: 20px;
+
+
+
+}
